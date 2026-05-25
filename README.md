@@ -30,7 +30,7 @@ The main dashboard provides a high-level summary of marketing performance and cu
 * Income vs Spending Analysis
 * Customer Segment Spending Comparison
 
-<img src="./docs/marketing-analytics-overview.png" alt="Marketing Analytics Overview" width="50%" />
+![Marketing Analytics Overview](docs/MarketingAnalyticsOverview.png)
 
 This page acts as the central analytical hub of the report. It enables stakeholders to quickly evaluate overall marketing effectiveness, identify top-performing product categories, and analyze customer purchasing trends across different channels.
 
@@ -44,20 +44,19 @@ This page acts as the central analytical hub of the report. It enables stakehold
 * Customer Demographics Insights
 * Explanation
 
-<img src="./docs/customer-segmentation.png" alt="Customer Segmentation" width="50%" />
+![Customer Segmentation](docs/CustomerSegmentation.png)
 
 This dashboard focuses on customer demographics and behavioral segmentation. It helps identify which customer groups contribute the most revenue and how purchasing behavior varies among segments.
 
 ### 3. Campaign & Channel Analysis
 Features
-Campaign Acceptance Rates
-Acceptance by Age Groups
-Web Purchases vs Web Visits
-Purchase Channel Distribution
-Campaign Performance KPIs
-Explanation
+* Campaign Acceptance Rates
+* Acceptance by Age Groups
+* Web Purchases vs Web Visits
+* Purchase Channel Distribution
+* Campaign Performance KPIs
 
-<img src="./docs/campaign-and-channel-analysis.png" alt="Campaign and Channel Analysis" width="50%" />
+![Campaign and Channel Analysis](docs/CampaignAndChannelAnalysis.png)
 
 This page evaluates marketing campaign effectiveness and customer interaction across purchase channels. It assists in measuring campaign engagement and identifying the most effective communication channels.
 
@@ -72,7 +71,7 @@ Displays:
 * Total Spending
 * Campaign Acceptance Rate
 
-<img src="./docs/custom-tooltip-1.png" alt="Custom Tooltip 1" width="50%" />
+![Custom Tooltip 1](docs/CustomTooltip1.png)
 
 ### 5. Campaign Insights - Tooltip 2
 
@@ -81,8 +80,8 @@ Displays:
 * Total Accepted Campaigns
 * Campaign Acceptance Rate
 * Campaign-wise performance metrics
-  
-<img src="./docs/custom-tooltip-2.png" alt="Custom Tooltip 2" width="50%" />
+
+![Custom Tooltip 2](docs/CustomTooltip2.png)
 
 These tooltips enhance user experience by providing quick access to detailed metrics when hovering over visuals.
 
@@ -98,6 +97,8 @@ Included Filters
 * Additional Features
 * Clear Filters button
 * Open/Close slicer panel navigation
+
+![Slicer Panel](docs/SlicerPanel.png)
 
 <img src="./docs/slicer-panel.png" alt="Slicer Panel" width="50%" />
 
