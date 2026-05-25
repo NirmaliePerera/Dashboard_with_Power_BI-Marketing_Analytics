@@ -1,6 +1,9 @@
 # Marketing Analytics Dashboard – Power BI
 Dashboard with Power BI - Marketing Analytics - iFood Customer Data
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Marketing%20Analytics-6C63FF?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Data%20Visualization-4A90E2?style=for-the-badge)
+
 ## Overview
 
 This project presents a comprehensive Marketing Analytics Dashboard developed in Microsoft Power BI based on the iFood customer dataset.
@@ -42,14 +45,14 @@ This page acts as the central analytical hub of the report. It enables stakehold
 * Age Group Analysis
 * Channel Preference Distribution
 * Customer Demographics Insights
-* Explanation
+  
 
 ![Customer Segmentation](docs/CustomerSegmentation.png)
 
 This dashboard focuses on customer demographics and behavioral segmentation. It helps identify which customer groups contribute the most revenue and how purchasing behavior varies among segments.
 
 ### 3. Campaign & Channel Analysis
-Features
+**Features**
 * Campaign Acceptance Rates
 * Acceptance by Age Groups
 * Web Purchases vs Web Visits
@@ -60,13 +63,13 @@ Features
 
 This page evaluates marketing campaign effectiveness and customer interaction across purchase channels. It assists in measuring campaign engagement and identifying the most effective communication channels.
 
-**Custom Tooltips**
+*Custom Tooltips*
 
 Two custom tooltip pages were designed to improve interactivity and provide additional contextual insights without overcrowding the main dashboards.
 
 ### 4. Customer Insights - Tooltip 1
 
-Displays:
+**Displays:**
 * Average Customer Spending
 * Total Spending
 * Campaign Acceptance Rate
@@ -75,8 +78,7 @@ Displays:
 
 ### 5. Campaign Insights - Tooltip 2
 
-Displays:
-
+**Displays:**
 * Total Accepted Campaigns
 * Campaign Acceptance Rate
 * Campaign-wise performance metrics
@@ -89,7 +91,7 @@ These tooltips enhance user experience by providing quick access to detailed met
 
 An interactive slicer panel was added to the main dashboard for dynamic filtering.
 
-Included Filters
+**Included Filters:**
 * Age
 * Education Level
 * Marital Status
@@ -99,7 +101,5 @@ Included Filters
 * Open/Close slicer panel navigation
 
 ![Slicer Panel](docs/SlicerPanel.png)
-
-<img src="./docs/slicer-panel.png" alt="Slicer Panel" width="50%" />
 
 The slicer panel improves dashboard usability by allowing users to perform customized analysis based on selected customer characteristics.
